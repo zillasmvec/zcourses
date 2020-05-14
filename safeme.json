@@ -1,6 +1,20 @@
 {
       "photoshop": [
             {
+                  "Name": "G. Karthik Charan",
+                  "Email": "aarthi81178@gmail.com",
+                  "UUID": "94863aar",
+                  "url": "",
+                  "C_date": "2020-05-13 06:33:00"
+            },
+            {
+                  "Name": "Gowsalya D",
+                  "Email": "gowsiprasanna98@gmail.com",
+                  "UUID": "96299gow",
+                  "url": "",
+                  "C_date": "2020-05-13 06:33:00"
+            },
+            {
                   "Name": "Praveen R",
                   "Email": "rpraveenpraveen2001@gmail.com",
                   "UUID": "95669rpr",
@@ -121,6 +135,13 @@
             }
       ],
       "python": [
+            {
+                  "Name": "Sona Shiva",
+                  "Email": "sonaisha0103@gmail.com",
+                  "UUID": "94984son",
+                  "url": "",
+                  "C_date": "2020-05-13 06:33:00"
+            },
             {
                   "Name": "Praveen R",
                   "Email": "rpraveenpraveen2001@gmail.com",
